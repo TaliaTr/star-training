@@ -1,0 +1,13 @@
+dagster==1.9.*
+azure-identity
+azure-keyvault-secrets
+azure-storage-blob
+pandas[parquet]
+pyodbc
+pyarrow
+requests
+sqlalchemy
+
+[dev]
+dagster-webserver
+pytest
